@@ -1,0 +1,32 @@
+{
+  "name": "type-util",
+  "version": "0.0.5",
+  "description": "This module provides the functionality to perfrom the basic operations on strings, arrays, and objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "data",
+    "strings",
+    "arrays",
+    "objects",
+    "parser",
+    "manipulate"
+  ],
+  "devDependencies": {
+    "lodash": "*",
+    "mocha": "^2.4.5",
+    "should": "^8.3.1"
+  },
+  "author": "zeeshan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeeshanalisyed/type-util.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zeeshanalisyed/type-util/issues"
+  },
+  "homepage": "https://github.com/zeeshanalisyed/type-util#readme"
+}
