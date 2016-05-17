@@ -3,15 +3,15 @@
 
 [version-svg]: https://img.shields.io/npm/v/type-util.svg?style=flat-square
 [package-url]: https://www.npmjs.com/package/type-util
-[travis-svg]: https://img.shields.io/travis/zeeshanalisyed/type-util/master.svg?style=flat-square
-[travis-url]: https://api.travis-ci.org/zeeshanalisyed/type-util.svg?branch=master
-[issues-url]:https://img.shields.io/github/issues/zeeshanalisyed/type-util.svg?style=flat-square
-[forks-url]:https://img.shields.io/github/forks/zeeshanalisyed/type-util.svg?style=flat-square
-[stars-url]:https://img.shields.io/github/stars/zeeshanalisyed/type-util.svg?style=flat-square
+[travis-svg]: https://img.shields.io/travis/masked-runner/type-util/master.svg?style=flat-square
+[travis-url]: https://api.travis-ci.org/masked-runner/type-util.svg?branch=master
+[issues-url]:https://img.shields.io/github/issues/masked-runner/type-util.svg?style=flat-square
+[forks-url]:https://img.shields.io/github/forks/masked-runner/type-util.svg?style=flat-square
+[stars-url]:https://img.shields.io/github/stars/masked-runner/type-util.svg?style=flat-square
 [downloads-image]: https://img.shields.io/npm/dm/type-util.svg?style=flat-square
 [downloads-url]: http://npm-stat.com/charts.html?package=type-util
 [license-image]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
-[license-url]: https://raw.githubusercontent.com/zeeshanalisyed/type-util/master/LICENSE
+[license-url]: https://raw.githubusercontent.com/masked-runner/type-util/master/LICENSE
 A utility package which provides the basic functions based on arrays, strings, and objetcs  
 
 
