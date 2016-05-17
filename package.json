@@ -1,6 +1,6 @@
 {
   "name": "type-util",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "This module provides the functionality to perfrom the basic operations on strings, arrays, and objects.",
   "main": "index.js",
   "scripts": {
@@ -23,10 +23,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zeeshanalisyed/type-util.git"
+    "url": "git+https://github.com/masked-runner/type-util.git"
   },
   "bugs": {
-    "url": "https://github.com/zeeshanalisyed/type-util/issues"
+    "url": "https://github.com/masked-runner/type-util/issues"
   },
-  "homepage": "https://github.com/zeeshanalisyed/type-util#readme"
+  "homepage": "https://github.com/masked-runner/type-util#readme",
+  "dependencies": {}
 }
