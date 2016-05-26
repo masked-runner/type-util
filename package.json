@@ -4,7 +4,7 @@
   "description": "This module provides the functionality to perfrom the basic operations on strings, arrays, and objects.",
   "main": "index.js",
   "scripts": {
-    "pretest":"./node_modules/jshint/bin/jshint lib"
+    "pretest":"./node_modules/jshint/bin/jshint lib",
     "test": "mocha test"
   },
   "keywords": [
@@ -23,7 +23,7 @@
   "author": {
     "name":"zeeshan",
     "email":"zeeshan_asyed@hotmail.com"
-  }
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
