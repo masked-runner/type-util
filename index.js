@@ -12,6 +12,7 @@ module.exports = {
  compact: utils._compact,
  parentHistory:utils._parentHistory,
  removeElementArray: utils._removeElementArray,
- request_response_extractor:utils._request_response_extractor
+ request_response_extractor:utils._request_response_extractor,
+ isDate : utils._isDate
 };
 
