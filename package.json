@@ -1,6 +1,6 @@
 {
   "name": "type-util",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This module provides the functionality to perfrom the basic operations on strings, arrays, and objects.",
   "main": "index.js",
   "scripts": {
