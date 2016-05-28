@@ -13,6 +13,8 @@ module.exports = {
  parentHistory:utils._parentHistory,
  removeElementArray: utils._removeElementArray,
  request_response_extractor:utils._request_response_extractor,
- isDate : utils._isDate
+ isDate : utils._isDate,
+ isInt : utils._isInt,
+ isFloat : utils._isFloat
 };
 
